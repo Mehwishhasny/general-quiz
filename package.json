@@ -1,6 +1,6 @@
 {
-  "name": "general-quiz",
-  "version": "1.0.0",
+  "name": "sm-general-quiz",
+  "version": "2.0.0",
   "description": "A simple CLI quiz based on general questions using Typescript, NodeJS and Inquirer.",
   "main": "index.js",
   "type": "module",
