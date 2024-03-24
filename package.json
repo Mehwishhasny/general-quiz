@@ -1,20 +1,20 @@
 {
-  "name": "sm-general-quiz",
-  "version": "2.0.0",
+  "name": "g-general-quiz",
+  "version": "2.1.1",
   "description": "A simple CLI quiz based on general questions using Typescript, NodeJS and Inquirer.",
   "main": "index.js",
-  "type": "module",
   "bin": "index.js",
-  "publishConfig": {
-    "access": "public"
-  },
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.16",
+    "sm-general-quiz": "^2.0.0"
+
+
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"

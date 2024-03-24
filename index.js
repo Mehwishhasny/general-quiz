@@ -1,4 +1,4 @@
-#! /usr/bin/env node;
+#! /usr/bin/env node
 import inquirer from "inquirer";
 const answers = await inquirer.prompt([
     { message: "What is your name?", type: "string", name: "fullName" },
