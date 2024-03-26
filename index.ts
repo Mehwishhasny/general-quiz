@@ -105,4 +105,6 @@ if (answers.ques8 === "630") {
   console.log("Oops! Your answer is incorrect. Please check below.");
 }
 
-console.log("\nHere is the list of correct answers:",answers);
+const correctedAnswers : any[] = ["Jupiter", "Dollar", "H2O", "Mount Everest", "147", "Skin","Mars", "630"];
+
+console.log("\nHere is the list of correct answers:",correctedAnswers);
