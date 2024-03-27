@@ -13,8 +13,6 @@
   "dependencies": {
     "inquirer": "^9.2.16",
     "sm-general-quiz": "^2.0.0"
-
-
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
